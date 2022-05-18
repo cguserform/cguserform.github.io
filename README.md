@@ -1,11 +1,4 @@
 <!DOCTYPE html>
-<head>
-<style> 
-input {
-  width: 100%;
-}
-</style>
-</head>
 <body>
 
 <h2>Happy Birthday</h2>
