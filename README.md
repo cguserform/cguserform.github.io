@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <body>
 
 <h2>Happy Birthday</h2>
