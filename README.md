@@ -7,6 +7,7 @@
 <form>
   <label for="name">Name: </label>
   <input type="text" id="name" name="name">
+  
   <label for="message">Your message: </label>
   <input type="text" id="message" name="message">
 </form>
