@@ -10,6 +10,8 @@
   
   <label for="message">Your message: </label>
   <input type="text" id="message" name="message">
+  
+  <input type="submit" value="Submit">
 </form>
 
 </body>
